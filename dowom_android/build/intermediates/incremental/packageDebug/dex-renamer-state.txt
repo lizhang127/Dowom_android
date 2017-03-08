@@ -1,0 +1,7 @@
+#Wed Mar 08 01:05:26 CST 2017
+base.0=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3f6e7d5c8bde9c345f612afe61ceb677102e14fc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6ac9b90d440689cebd915006b37f1c932bd2260c\\classes.dex
+base.1=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6ac9b90d440689cebd915006b37f1c932bd2260c
+file.0=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3f6e7d5c8bde9c345f612afe61ceb677102e14fc\\classes.dex

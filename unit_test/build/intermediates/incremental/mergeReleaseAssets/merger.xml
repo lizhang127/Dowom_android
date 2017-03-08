@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\java\android_studio_project\Dowom_android\unit_test\src\main\assets"/><source path="F:\java\android_studio_project\Dowom_android\unit_test\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="F:\java\android_studio_project\Dowom_android\unit_test\src\release\assets"/></dataSet></merger>

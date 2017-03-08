@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Wed Mar 08 01:05:13 CST 2017
+2.base=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\res\\resources-debug.ap_
+5.file=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\item.xml
+0.base=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\java\\android_studio_project\\Dowom_android\\dowom_android\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+0.set=ANDROID_RESOURCE

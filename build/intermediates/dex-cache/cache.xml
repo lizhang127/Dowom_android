@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\java\android_studio_project\Dowom_android\dowom_android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee7a70c287ed638836d00df48ff9938b46df03f0">
+        <dex dex="F:\java\android_studio_project\Dowom_android\dowom_android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3f6e7d5c8bde9c345f612afe61ceb677102e14fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\java\android_studio_project\Dowom_android\dowom_android\build\intermediates\exploded-aar\Dowom_android\unit_test\unspecified\jars\libs\android-async-http-1.4.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46beba37e56be391b106afef1af64bae19126127">
+        <dex dex="F:\java\android_studio_project\Dowom_android\dowom_android\build\intermediates\transforms\dex\debug\folders\1000\8\android-async-http-1.4.8_c663e90a07d7d5e4bfda0734d98e0a411c605df9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\java\android_studio_project\Dowom_android\dowom_android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2d867e6ca1cc54fce4b21eaa4e3d16c40c81456">
+        <dex dex="F:\java\android_studio_project\Dowom_android\dowom_android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6ac9b90d440689cebd915006b37f1c932bd2260c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\java\android_studio_project\Dowom_android\dowom_android\build\intermediates\exploded-aar\Dowom_android\unit_test\unspecified\jars\libs\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e3acebe5748545d5d3af83f72867868aa38e6ef">
+        <dex dex="F:\java\android_studio_project\Dowom_android\dowom_android\build\intermediates\transforms\dex\debug\folders\1000\8\httpclient-4.3.6_76c0709edf307bb329f636625bacab5b83a1945e\classes.dex" />
+    </item>
+
+</items>
